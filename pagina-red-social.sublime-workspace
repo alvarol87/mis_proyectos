@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"bodyParser",
+				"bodyParser"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"a",
+				"ASIDE	Tag"
+			],
+			[
+				"peti",
+				"peticionHTTP"
+			],
+			[
+				"pe",
+				"peticionHTTP"
+			],
+			[
+				"XML",
+				"XMLHttpRequest"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"arr",
+				"arreglo"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"url",
+				"urlRouterProvider"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"mostrar",
+				"mostrar-nav"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"in",
+				"z-index"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"form",
+				"formDatos"
+			],
+			[
+				"q",
+				"querie"
+			],
+			[
+				"conn",
+				"Connect"
+			],
+			[
+				"lo",
+				"lowVal"
+			],
+			[
+				"s",
+				"setDate"
+			],
+			[
+				"e",
+				"executeSql"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ph",
+				"Phonegap"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"table",
+				"fbsql_tablename"
+			],
+			[
+				"cad",
+				"cadenaDos"
+			],
+			[
+				"res",
+				"resultadoCadena"
+			],
+			[
+				"op",
+				"operaciones"
+			],
+			[
+				"num",
+				"numero2"
+			],
+			[
+				"valor",
+				"valorTres"
+			],
+			[
+				"nombre",
+				"nombreDos"
+			],
+			[
+				"va",
+				"valorDos"
+			],
+			[
+				"o",
+				"objeto"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Bookmarks: Toggle"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/pagina-red-social/api/index.js",
+		"/C/xampp/htdocs/pagina-red-social/api/app.js",
+		"/C/xampp/htdocs/pagina-red-social/api/models/user.js",
+		"/C/xampp/htdocs/pagina-red-social/api/package.json",
+		"/C/wamp/www/CODEIGNITER/mi_proyecto/application/views/frontend/login.php",
+		"/C/wamp/www/CODEIGNITER/mi_proyecto/empresa.sql",
+		"/C/wamp/www/mi_proyecto/application/models/empleados_model.php",
+		"/C/wamp/www/mi_proyecto/application/views/frontend/principal.php",
+		"/C/wamp/www/mi_proyecto/application/views/plantilla/footer.php",
+		"/C/wamp/www/mi_proyecto/application/controllers/login.php",
+		"/C/Users/Alvaro/Downloads/rp_cti_tipificaciones_pestaña_skills.sql",
+		"/C/xampp/htdocs/mi_proyecto/application/views/frontend/login.php",
+		"/C/apache-tomcat-8.5.11/webapps/first-servlet/welcome.html",
+		"/C/wamp/www/liga/login.php",
+		"/C/Users/Alvaro/Desktop/archivo/color.html",
+		"/C/Users/Alvaro/Desktop/CMRCORPFFEstadodeCuenta.jsp.html",
+		"/C/Users/Alvaro/Desktop/archivo/PR1JS2S4.html",
+		"/C/Users/Alvaro/Desktop/animacion.js",
+		"/C/Users/Alvaro/Desktop/curso/public/css/estilos.css",
+		"/C/wamp/www/Examen final/index.html",
+		"/C/Users/Alvaro/Documents/viki.html",
+		"/C/Users/Alvaro/Desktop/primo.html",
+		"/C/Users/Alvaro/Desktop/Zharick, 25 _ Badoo.html",
+		"/C/Users/Alvaro/proyectos_ionic/agenda/www/index.html",
+		"/C/Users/Alvaro/Desktop/prueba.html",
+		"/C/Users/Alvaro/Desktop/tutorial/estylo.css",
+		"/C/Users/Alvaro/Desktop/tutorial/clase_css.html",
+		"/C/html/uno.html",
+		"/C/Users/Alvaro/Desktop/curso/public/tabla.html",
+		"/C/Users/Alvaro/Documents/cepa_ejemplos/agrupaciontrabajadores.html",
+		"/C/Users/Alvaro/Desktop/tutorial/practica.html",
+		"/C/html/css.css",
+		"/C/Users/Alvaro/Desktop/Nueva carpeta/index.html",
+		"/C/Users/Alvaro/Documents/html/botones.html",
+		"/C/wamp/www/ejercicio1/script.js",
+		"/C/wamp/www/javascript_codigo_facilito/7_objetos/objetosjavaScript.html",
+		"/C/wamp/www/ejercicio1/index.html",
+		"/C/wamp/www/tetrapack/PortalProveedores/cepa.proveedores.web/styles/style.css",
+		"/C/Users/Alvaro/Documents/CLASES JAZMIN/ejercicio1.html",
+		"/C/Users/Alvaro/Documents/SQL Server Management Studio/SQLQuery2.sql",
+		"/C/wamp/www/tetrapack/PortalProveedores/cepa.proveedores.web/scripts/login.js",
+		"/C/wamp/www/tetrapack/PortalProveedores/cepa.proveedores.web/index.html",
+		"/C/wamp/www/tetrapack/PortalProveedores/cepa.proveedores.web/agrupaciontrabajadores.html",
+		"/C/wamp/www/tetrapack/PortalProveedores/cepa.proveedores.web/trabajadores.html",
+		"/C/PROYECTOS/TETRAPACK/PortalProveedores/cepa.proveedores.web/clases/isAuditoria.cs",
+		"/C/PROYECTOS/TETRAPACK/PortalProveedores/cepa.proveedores.web/scripts/auditoria.js",
+		"/C/PROYECTOS/TETRAPACK/PortalProveedores/cepa.proveedores.web/auditoria.html",
+		"/C/wamp/www/tetrapack/PortalProveedores/cepa.proveedores.web/wsProveedores.asmx.cs",
+		"/C/PROYECTOS/TETRAPACK/PortalProveedores/cepa.proveedores.web/wsProveedores.asmx.cs",
+		"/C/wamp/netbeans proyectos/tienda (1).sql",
+		"/C/Users/Alvaro/Documents/SQL Server Management Studio/SQLQuery1.sql",
+		"/C/wamp/www/tetrapack/PortalProveedores/cepa.proveedores.web/wsProveedores.asmx",
+		"/C/wamp/www/tetrapack/PortalProveedores/cepa.proveedores.web/styless/style.css",
+		"/C/Users/Alvaro/Documents/cepa_ejemplos/scripts/agrupacion.js",
+		"/C/Users/Alvaro/Documents/cepa_ejemplos/agrupacion.js",
+		"/C/wamp/www/javascript_codigo_facilito/8_jquery/index.html",
+		"/C/Users/Alvaro/Documents/Visual Studio 2012/Projects/curso/ejemploapp1/ejemploapp1/HTMLPage1.html",
+		"/C/Users/Alvaro/Desktop/archivios de escritorio/Nuevo documento de texto (3).html",
+		"/C/Users/Alvaro/Desktop/archivios de escritorio/prompt.html",
+		"/C/Users/Alvaro/Desktop/archivios de escritorio/prueba.html",
+		"/C/Users/Alvaro/Desktop/Index.php",
+		"/C/Users/Alvaro/Desktop/index.html",
+		"/C/Users/Alvaro/Documents/paginas/viki.html",
+		"/C/Users/Alvaro/Documents/paginas/viki/viki.html",
+		"/C/wamp/www/phonegap/insertar/public_html/index.html",
+		"/C/wamp/www/ajax_cero/tuto_2/verificarUsuario.php",
+		"/C/wamp/www/ajax_cero/tuto_2/usuarios.sql",
+		"/C/wamp/www/ajax_cero/tuto_2/index.html",
+		"/C/wamp/www/ajax_cero/tuto_1/ajax1.html",
+		"/C/wamp/www/busqueda/conexion.php",
+		"/C/wamp/www/busqueda/buscar.php",
+		"/C/wamp/www/busqueda/index.html",
+		"/C/wamp/www/ajax_cero/tuto_1/ajax2.html",
+		"/C/wamp/www/capa8_php/capa8_9/pdo/datos.php",
+		"/C/wamp/www/capa8_php/capa8_9/listado.php",
+		"/C/wamp/www/capa8_php/capa8_8/listado.php",
+		"/C/wamp/www/capa8_php/capa8_8/pdo/conectar.php",
+		"/C/wamp/www/capa8_php/capa8_8/pdo/datos.php",
+		"/C/Users/Alvaro/Documents/Programacion/SEMANA 1 Y 2 TALLER DE PROG III/HTML BASICO/GUIAS DE EJERCICIOS/Ejercicio 1.html",
+		"/C/Users/Alvaro/Desktop/prueba2.html",
+		"/C/wamp/www/capa8/clase_3/descarga clase 3/Taller_PHP-Clase-3-master/clases/persona.php",
+		"/C/wamp/www/capa8/clase_3/funciones estaticas/calcular_edad.php",
+		"/C/wamp/www/capa8/clase_3/funciones estaticas/cambiar_fecha.php",
+		"/C/wamp/www/capa8/clase_3/funciones estaticas/sistema_operativo.php",
+		"/C/wamp/www/capa8/clase_3/descarga clase 3/Taller_PHP-Clase-3-master/ejemplo_2.php",
+		"/C/wamp/www/capa8/clase_3/ejemplo2.php",
+		"/C/wamp/www/capa8/clase_3/ejemplo.php",
+		"/C/wamp/www/capa8/clase_3/clases/usuarios.php",
+		"/C/wamp/www/capa8/clase_3/clases/persona.php",
+		"/C/wamp/www/capa8/clase_3/descarga clase 3/Taller_PHP-Clase-3-master/ejemplo.php",
+		"/C/wamp/www/capa8/clase_3/ejemplo2.html",
+		"/C/wamp/www/capa8/clase_3/persona.php",
+		"/C/Users/Alvaro/proyectos_ionic/demoapp/www/js/app.js",
+		"/C/Users/Alvaro/proyectos_ionic/demoapp/www/index.html",
+		"/C/Users/Alvaro/proyectos_ionic/demoapp/www/index - copia.html",
+		"/C/Users/Alvaro/Desktop/botones.html",
+		"/C/wamp/www/slimpruebas/index.php",
+		"/C/wamp/www/slimpruebas/conexion.php",
+		"/C/Users/Alvaro/Desktop/tutorial/menu/menu_lateral.html",
+		"/C/Users/Alvaro/Desktop/tutorial/menu/mostrar-nav.js",
+		"/C/Users/Alvaro/Desktop/tutorial/menu/estilos.css",
+		"/C/Users/Alvaro/Desktop/tutorial/menu/menu.css",
+		"/C/Users/Alvaro/Desktop/tutorial/menu/menu2.html",
+		"/C/Users/Alvaro/Desktop/tutorial/1.html",
+		"/C/Users/Alvaro/Desktop/tutorial/css.html",
+		"/C/Users/Alvaro/AGENDA/www/index.html",
+		"/C/wamp/www/phonegap/insertar_ajax/www/index.html",
+		"/C/wamp/www/ejercicio1/form.php",
+		"/C/wamp/www/tercer_repaso/conexion.php",
+		"/C/wamp/www/conecta/conectando.php",
+		"/C/wamp/www/phonegap/Google/www/JS/GoogleMaps.js",
+		"/C/wamp/www/phonegap/prueba/index.html",
+		"/C/wamp/www/phonegap/insertar/public_html/js/main.js",
+		"/C/wamp/www/phonegap/ultimo_enviar/www/index.html",
+		"/C/wamp/www/phonegap/prueba/mains.js",
+		"/C/wamp/www/phonegap/Servidor/RespuestaJSON/respuesta.php",
+		"/C/wamp/www/phonegap/segunda_aplicacion/www/archivos/funciones.js",
+		"/C/wamp/www/phonegap/segunda_aplicacion/www/archivos/camara.html",
+		"/C/wamp/www/phonegap/segunda_aplicacion/www/index.html",
+		"/C/wamp/www/phonegap/Calendar-PhoneGap-Plugin-master/www/Calendar.js",
+		"/C/wamp/www/phonegap/primera_aplicacion/www/js/index.js",
+		"/C/wamp/www/phonegap/primera_aplicacion/www/index.html",
+		"/C/wamp/www/select/vistas/index.php",
+		"/C/wamp/www/conecta/buscar.php",
+		"/C/Users/Alvaro/Desktop/hola.cs",
+		"/C/wamp/www/ejercicios php/buscar.php",
+		"/C/wamp/www/introduccion_bootstrap/bootstrap/index.html",
+		"/C/wamp/www/phonegap/primera_aplicacion/www/spec.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"post",
+			"`",
+			"login",
+			"styles/",
+			"styles/im",
+			"styles/",
+			"static ",
+			"arro",
+			"null",
+			"homer",
+			"dvModalEMail",
+			"descarcarArchivo",
+			"18",
+			"\"\"",
+			"table",
+			"alert",
+			"..",
+			"contac",
+			"->",
+			"theme",
+			"container",
+			"baseUrl",
+			"apple",
+			".nav",
+			"db'",
+			"db",
+			"mod_rew"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"\"#\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 141.0,
+	"status_bar_visible": true
+}
